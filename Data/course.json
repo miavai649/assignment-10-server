@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "title":"Spoken English",
+        "image":"http://www.winspireacademy.com/wp-content/uploads/2019/01/Spoken-English.jpg",
+        "description":"Learn how to speak English fluently and be a confident English speaker in your everyday life. It is a complete Spoken English course for beginners.",
+        "instructor":{
+            "name":"Munzereen Shahid",
+            "qualification":"MS (English), University of Oxford (UK); BA, MA (English), University of Dhaka",
+            "img":"https://cdn.10minuteschool.com/images/skills/lp/ms_onset.jpg"
+        },
+        "details":"Spoken English is an essential skill in the current world. By having sound spoken English skills, one can stay ahead at different stages of life. Being skilled in spoken English is extremely important in academics, career, competitive exams, higher education, and even traveling abroad. There are many people who are good at English but feel reluctant to speak English due to a lack of confidence. To help you improve your English speaking skills and build confidence, Knowledge Media has brought tp you the “Spoken English” course. With some easy ways to learn English with real-life examples, you will be able to speak English without hesitation or stuttering and become self-confident in your spoken English!",
+        "rating":4.5
+     },
+    {
+        "id":2,
+        "title":"Data Entry",
+        "image":"https://cdn.w600.comps.canstockphoto.com/information-concept-data-entry-on-drawings_csp12603131.jpg",
+        "description":"Learn Data Entry to get data entry jobs and start earning through freelancing. Get the best guidelines from a top-rated freelancer about Data Entry to start your career.",
+        "instructor":{
+            "name":"Joyeta Banerjee",
+            "qualification":"CEO, TalkStory; Top Rated Freelancer at Upwork; Freelancing Instructor at Knowledge Media",
+            "img":"https://cdn.10minuteschool.com/images/skills/lp/jb_onset.jpg"
+        },
+        "details":"Data entry is a comparatively easy skill to start your freelancing career with. It does not require any previous experience or IT skill, hence it can be your first choice if you want to start earning through freelancing in a short period of time. In this course, top-rated freelancer and instructor Joyeta Banerjee has taught how you can easily learn data entry and prepare yourself for freelancing marketplaces. You do not need a high-end device or IT skill to learn data entry. The main objective of this course is to teach anyone who is interested to take freelancing as a profession. So, if you are a student looking to earn some money, or want to add an extra income source to support your family, data entry is the perfect option for you. Enrol today and start preparing yourself for freelancing marketplaces by learning data entry skills.",
+        "rating":4.1
+     },
+    {
+        "id":3,
+        "title":"Microsoft Excel",
+        "image":"https://www.aupp.education/wp-content/uploads/2020/04/Advanced-excel_open.jpg",
+        "description":"Beginner to advanced Microsoft Excel tutorials. Navigate Excel like a pro, perform basic to complex calculations using Excel functions, formulas, tips & tricks.",
+        "instructor":{
+            "name":"Abtahi Iptesam",
+            "qualification":"Microsoft Excel Trainer",
+            "img":"https://cdn.10minuteschool.com/images/skills/instructors/rsz_microsoft_excel_-_instructor_dp.jpg"
+        },
+        "details":"Are you struggling to keep track of thousands of office projects and tasks? By learning Microsoft Excel formulas, functions, and applying smart tips & tricks, you will be able to collect and calculate data in a matter of moments. Learning Excel will help to simplify all your complex tasks and increase your productivity. To keep you ahead in your career, Knowledge Media has brought the “Microsoft Excel” course, taught by an Excel expert, Abtahi Iptesam. This course will help you fast-forward your tasks by teaching you excel basics and leading to advanced excel formulas to make your life easier. With this course, you will be able to simplify complex and hectic tasks like data storing, sorting and analysis. So, if you want to enter the world of data, be able to perform a bunch of complex calculations in seconds, and learn all you can about Microsoft Excel, enroll in this course right away!",
+        "rating":4.6
+     },
+    {
+        "id":4,
+        "title":"Adobe Illustrator",
+        "image":"https://jupitervidya.com/wp-content/uploads/2018/06/adobe-illustrator-course-jupiterVidya.jpg",
+        "description":"Learn Adobe Illustrator tools and shortcuts to create amazing visual content. Strengthen your graphic skills with illustration tutorials made by an expert designer.",
+        "instructor":{
+            "name":"Mohammad Yeasir",
+            "qualification":"Illustrator & Concept Artist, Founder of Spinxart",
+            "img":"https://cdn.10minuteschool.com/images/skills/instructors/Mohammad_Yasir.jpg"
+        },
+        "details":"Adobe Illustrator is the most popular vector-based graphic designing software in the world. Currently, its importance is so high that knowing how to use Adobe Illustrator gives you a competitive advantage while seeking jobs. Adding this skill to your CV will help you stand out among other candidates. You can also work as a freelance graphic designer, as there are plenty of relevant online gigs available. However, it is natural to find Adobe Illustrator to be overwhelming, given the vast number of versatile tools it offers. And that is why we got you covered! Ten Minute School’s “Adobe Illustrator” course is perfectly designed for beginners to learn and develop this skill, as well as for professionals to brush it up. You will be able to know all the ins and outs of Illustrator by enrolling in this course. You will be able to learn visual marketing, branding, website design, children's book illustration, POD products, 2D art, and much more through vector art. So don’t waste any more time and enrol today!",
+        "rating":4.7
+     },
+    {
+        "id":5,
+        "title":"Web Design",
+        "image":"https://ia601909.us.archive.org/13/items/web-design-1_202009/Web-Design-1.png",
+        "description":"Learn web design with HTML & CSS, making website layouts, responsive designs, and interactive experiences from the top instructor. This Web Design course will provide you with the complete guideline to start your career as a web designer.",
+        "instructor":{
+            "name":"Fahim Murshed",
+            "qualification":"Full-Stack Web Developer & Product Designer; Co-Founder & CEO, Symbl",
+            "img":"https://cdn.10minuteschool.com/images/skills/instructors/rsz_web_designing_-_instructor_dp.jpg"
+        },
+        "details":"Web design determines how a website will look in front of its visitors. It is not enough to have a visually pretty website; it needs to be practical and functional. A professional web designer requires two vital skills- programming and design sense. These two skills break down into many more minor skills, which altogether makes a web designer a successful one. If you are worried about how to learn web design, you can put your trust in the “Web Design” course by Knowledge Media to do the job. This course will provide you with the complete guideline to start your career as a web designer. Not only will you learn the skills required for Web Design, but you will also learn hands-on tips & tricks and receive cheat sheets to perform repetitive tasks faster. Enroll in the course to start your journey towards building yourself as a successful web designer.",
+        "rating":5.00
+     },
+    {
+        "id":1,
+        "title":"Microsoft PowerPoint",
+        "image":"https://www.classcentral.com/report/wp-content/uploads/2022/07/Microsoft-PowerPoint-BCG-Banner.png",
+        "description":"Learn to make visually appealing slides to perfect all of your upcoming meetings using Microsoft PowerPoint. This course will be your beginner's handbook for learning the basic to advanced concepts of MS PowerPoint.",
+        "instructor":{
+            "name":"Sadman Sadik",
+            "qualification":"Instructor, Knowledge Media; Bestselling Author; Education Content Creator",
+            "img":"https://cdn.10minuteschool.com/images/skills/lp/ss_onset.jpg"
+        },
+        "details":"Being skilled in Microsoft PowerPoint will help you create assignments, and class presentations, and also help you advance in various national and international business competitions. Even if you want to impress your boss or your clients, MS PowerPoint skills will always come in handy.  If you want to learn how to create extraordinary presentation slides with 3D animation & graphics using the basic tools of MS PowerPoint, then this “Microsoft PowerPoint” course is for you! From designing and editing slides to shapes, layouts, 3D animations, and graphics, learn everything you need to design great presentations in this “Microsoft PowerPoint” course. Enroll today to take yourself one step ahead in class presentations or office environments.",
+        "rating":4.8
+     }
+]
