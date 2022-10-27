@@ -22,6 +22,12 @@ app.get('/course/:id', (req, res) => {
     res.send(selectedCourse)
 })
 
+app.get('/checkout/:title', (req, res) => {
+    const title = req.params.title
+    const selectedCourse = courses.find(c => c.title === title)
+    res.send(selectedCourse)
+})
+
 app.listen(port, () => {
     console.log('knowledge media server running on port:', port)
 })
